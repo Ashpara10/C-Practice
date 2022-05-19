@@ -22,7 +22,3 @@ int main() {
     return 0;
 }
 
-// int add(a, b){
-//   printf("%d",a+b);
-//   return 0;
-// }
